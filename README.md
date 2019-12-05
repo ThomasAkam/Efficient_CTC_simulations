@@ -1,4 +1,4 @@
-###Efficient “Communication through Coherence” Matlab simulations
+### Efficient “Communication through Coherence” Matlab simulations
 
 This repository contains code used for simulations in the manuscript:
 
